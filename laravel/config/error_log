@@ -1,0 +1,48 @@
+[03-Mar-2020 23:03:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/enterframeit/public_html/laravel/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/enterframeit/public_html/laravel/config/app.php on line 16
+[04-Mar-2020 00:57:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/enterframeit/public_html/laravel/config/mail.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/enterframeit/public_html/laravel/config/mail.php on line 19
+[04-Mar-2020 04:35:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home/enterframeit/public_html/laravel/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/enterframeit/public_html/laravel/config/view.php on line 17
+[04-Mar-2020 07:44:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/enterframeit/public_html/laravel/config/cache.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/enterframeit/public_html/laravel/config/cache.php on line 21
+[04-Mar-2020 08:41:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/enterframeit/public_html/laravel/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/enterframeit/public_html/laravel/config/queue.php on line 16
+[04-Mar-2020 09:09:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/enterframeit/public_html/laravel/config/hashing.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/enterframeit/public_html/laravel/config/hashing.php on line 32
+[04-Mar-2020 09:19:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/enterframeit/public_html/laravel/config/session.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/enterframeit/public_html/laravel/config/session.php on line 21
+[04-Mar-2020 12:19:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/enterframeit/public_html/laravel/config/logging.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/enterframeit/public_html/laravel/config/logging.php on line 20
+[04-Mar-2020 14:22:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/enterframeit/public_html/laravel/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/enterframeit/public_html/laravel/config/database.php on line 18
+[04-Mar-2020 15:47:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/enterframeit/public_html/laravel/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/enterframeit/public_html/laravel/config/services.php on line 18
+[04-Mar-2020 16:34:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/enterframeit/public_html/laravel/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/enterframeit/public_html/laravel/config/filesystems.php on line 16
+[04-Mar-2020 17:05:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/enterframeit/public_html/laravel/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/enterframeit/public_html/laravel/config/broadcasting.php on line 18

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="f59d3505-c85e-4042-9f25-f92b4a78e666" name="enterframe_artera" url="http://ftp.enterframe.it">
+        <fileTransfer host="ftp.enterframe.it" port="22" rootFolder="/home/enterframeit/public_html" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
